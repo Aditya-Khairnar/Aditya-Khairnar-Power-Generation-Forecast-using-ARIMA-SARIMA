@@ -1,4 +1,4 @@
-# Aditya-Khairnar-Power-Generation-Forecast-using-ARIMA-SARIMA
+#Power-Generation-Forecast-using-ARIMA-SARIMA
 Source Data: https://cea.nic.in/?lang=en <br /> 
 We gather conventional power generation data from the government website, which is open source. [check file : actual_dat_pg.csv] <br />
 The collected data is cleaned, by handling missing values in the data frame. The ARIMA model at the end is just a trail and run for different p, d, q values. [Please refer to arima_forecast.ipynb][check file : Data_ml] <br />
